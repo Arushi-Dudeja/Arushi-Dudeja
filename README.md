@@ -1,10 +1,14 @@
 ### Hi there 👋
 I'm a Technology Consultant trying to transition into Data Science
 
-🌱 I’m currently learning to use Git, Kaggle, and Python language 
+🌱 I’m currently learning to use Git, Kaggle, and Python language
+
 💬 Ask me about Productivity, Self-help books and Online fast-fashion brands sales
+
 📫 How to reach me: arushidudeja.official@gmail.com
+
 😄 Pronouns: She/her
+
 ⚡ Fun fact: For some mysterious reason, I truly believe in the 10,000 hour rule (aka the assertion made by Malcolm Gladwell in the book "Outliers" that the key to achieving true expertise in any skill is simply a matter of practicing, albeit in the correct way, for at least 10 000 hours). Currently I stand at 26 out of 10,000 hours of Data Science!
 
 **Visitor Counter**
