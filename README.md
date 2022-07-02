@@ -5,7 +5,7 @@ I'm a Technology Consultant trying to transition into Data Science
 
 💬 Ask me about Productivity, Self-help books and Online fast-fashion brands sales
 
-📫 How to reach me: arushidudeja.official@gmail.com
+📫 How to reach me: https://www.linkedin.com/in/arushi-dudeja/
 
 😄 Pronouns: She/her
 
