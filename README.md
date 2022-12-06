@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Data Analytics Senior Consultant passionate about Data Science & Machine Learning
+I'm a Data Analytics Consultant passionate about Data Science & Machine Learning
 
 🌱 I’m currently learning to use Git, Kaggle, and Python language
 
