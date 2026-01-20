@@ -13,9 +13,6 @@ I'm a Data Analytics Consultant passionate about Data Science & Machine Learning
 
 ⚡ Fun fact: For some mysterious reason, I truly believe in the 10,000 hour rule (aka the assertion made by Malcolm Gladwell in the book "Outliers" that the key to achieving true expertise in any skill is simply a matter of practicing, albeit in the correct way, for at least 10 000 hours). Currently I stand at 187 out of 10,000 hours of Data Science!
 
-**Visitor Counter**
-![Visitor Count](https://profile-counter.glitch.me/Arushi-Dudeja/count.svg)
-
 <!--
 **Arushi-Dudeja/Arushi-Dudeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
